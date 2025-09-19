@@ -20,3 +20,5 @@
 ### b. Mettez maintenant une temporisation de _1 seconde_. Quel est l'effet sur l'attaquant ? 
 **L'effet sur l'attaquant est que ça lui prendra beaucoup plus de temps à trouver le code que s'il n'y avait pas un minimum de temps d'attente. Suivant la taille du code et les caractères présents cela prendra plus ou moins de temps à le décoder par brute force.**
 
+![alt text](image-1.png)
+
