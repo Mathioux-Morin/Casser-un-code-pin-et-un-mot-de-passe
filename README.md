@@ -20,4 +20,4 @@ L’objectif est simple : **simuler une attaque par force brute** pour découvri
 - Affichage du mot de passe trouvé et du temps d’exécution
 
 
-👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — spécialité développement d'applications.*
+👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — Lycée Fénelon*
