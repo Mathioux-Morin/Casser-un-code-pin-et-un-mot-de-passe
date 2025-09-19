@@ -19,10 +19,5 @@ L’objectif est simple : **simuler une attaque par force brute** pour découvri
 - Algorithme de force brute pour tester toutes les combinaisons
 - Affichage du mot de passe trouvé et du temps d’exécution
 
----
-
-> 💡 Ce TP est une excellente introduction aux notions de **cybersécurité**, tout en renforçant tes compétences en **algorithmique** et en **programmation orientée projet**.
-
----
 
 👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — spécialité développement d'applications.*
